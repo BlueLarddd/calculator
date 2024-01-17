@@ -1,0 +1,53 @@
+﻿<Window x:Class="Калькулятор.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Калькулятор"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="510" Background="#FFFBEFCE">
+    <Grid Name="GroupButton">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="100"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+
+        <TextBox Name="Content" Grid.Row="0" Grid.ColumnSpan="5" Background="#FFFBEFCE" FontFamily="Comic Sans MS" FontSize="18" Padding="20,0,20,0"/>
+        <Button Grid.Row="1" Grid.Column="0" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">(</Button>
+        <Button Grid.Row="1" Grid.Column="1" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">)</Button>
+        <Button Grid.Row="1" Grid.Column="2" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">C</Button>
+        <Button Grid.Row="1" Grid.Column="3" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">log2</Button>
+        <Button Grid.Row="1" Grid.Column="4" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">^2</Button>
+        <Button Grid.Row="2" Grid.Column="0" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">1</Button>
+        <Button Grid.Row="2" Grid.Column="1" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">2</Button>
+        <Button Grid.Row="2" Grid.Column="2" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">3</Button>
+        <Button Grid.Row="2" Grid.Column="3" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">+</Button>
+        <Button Grid.Row="2" Grid.Column="4" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">√</Button>
+        <Button Grid.Row="3" Grid.Column="0" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">4</Button>
+        <Button Grid.Row="3" Grid.Column="1" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">5</Button>
+        <Button Grid.Row="3" Grid.Column="2" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">6</Button>
+        <Button Grid.Row="3" Grid.Column="3" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">-</Button>
+        <Button Grid.Row="3" Grid.Column="4" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">sin</Button>
+        <Button Grid.Row="4" Grid.Column="0" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">7</Button>
+        <Button Grid.Row="4" Grid.Column="1" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">8</Button>
+        <Button Grid.Row="4" Grid.Column="2" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">9</Button>
+        <Button Grid.Row="4" Grid.Column="3" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">*</Button>
+        <Button Grid.Row="4" Grid.Column="4" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">cos</Button>
+        <Button Grid.Row="5" Grid.Column="0" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">.</Button>
+        <Button Grid.Row="5" Grid.Column="1" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">0</Button>
+        <Button Grid.Row="5" Grid.Column="2" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">=</Button>
+        <Button Grid.Row="5" Grid.Column="3" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">/</Button>
+        <Button Grid.Row="5" Grid.Column="4" Background="#FFFBEFCE" TextBlock.FontFamily="Comic Sans MS" TextBlock.FontSize="18" Padding="20,1,20,1">!</Button>
+    </Grid>
+</Window>

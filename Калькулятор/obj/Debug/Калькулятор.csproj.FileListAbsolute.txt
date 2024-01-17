@@ -1,0 +1,32 @@
+C:\Users\fanta\source\repos\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+C:\Users\fanta\source\repos\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\fanta\source\repos\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\fanta\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.AssemblyReference.cache
+C:\Users\fanta\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanta\source\repos\Калькулятор\Калькулятор\obj\Debug\MainWindow.g.cs
+C:\Users\fanta\source\repos\Калькулятор\Калькулятор\obj\Debug\App.g.cs
+C:\Users\fanta\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор_MarkupCompile.cache
+C:\Users\fanta\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор_MarkupCompile.lref
+C:\Users\fanta\source\repos\Калькулятор\Калькулятор\obj\Debug\MainWindow.baml
+C:\Users\fanta\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.g.resources
+C:\Users\fanta\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\fanta\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.cache
+C:\Users\fanta\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\fanta\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\fanta\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
+C:\Users\fanta\OneDrive\Рабочий стол\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+C:\Users\fanta\OneDrive\Рабочий стол\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\fanta\OneDrive\Рабочий стол\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\fanta\OneDrive\Рабочий стол\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.AssemblyReference.cache
+C:\Users\fanta\OneDrive\Рабочий стол\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanta\OneDrive\Рабочий стол\Калькулятор\Калькулятор\obj\Debug\MainWindow.g.cs
+C:\Users\fanta\OneDrive\Рабочий стол\Калькулятор\Калькулятор\obj\Debug\App.g.cs
+C:\Users\fanta\OneDrive\Рабочий стол\Калькулятор\Калькулятор\obj\Debug\Калькулятор_MarkupCompile.cache
+C:\Users\fanta\OneDrive\Рабочий стол\Калькулятор\Калькулятор\obj\Debug\Калькулятор_MarkupCompile.lref
+C:\Users\fanta\OneDrive\Рабочий стол\Калькулятор\Калькулятор\obj\Debug\MainWindow.baml
+C:\Users\fanta\OneDrive\Рабочий стол\Калькулятор\Калькулятор\obj\Debug\Калькулятор.g.resources
+C:\Users\fanta\OneDrive\Рабочий стол\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\fanta\OneDrive\Рабочий стол\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.cache
+C:\Users\fanta\OneDrive\Рабочий стол\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\fanta\OneDrive\Рабочий стол\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\fanta\OneDrive\Рабочий стол\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
